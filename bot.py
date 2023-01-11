@@ -8,7 +8,7 @@ from telebot import types
 from random import choice
 
 #Токен телеграм-бота
-token = "5037172459:AAF1FDpL72U3rsGOSxtc9f6FGdhO6fmE61Y"
+token = "example_token"
 bot = telebot.TeleBot(token, threaded=False)
 
 # Cloud Function Handler
